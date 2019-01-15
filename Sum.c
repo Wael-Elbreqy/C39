@@ -5,3 +5,5 @@ Awny
 OMARS
 abdelrahman
 ahmed
+Omar Ashraf
+Hussein
